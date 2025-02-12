@@ -17,7 +17,7 @@ Pterodactyl adalah panel manajemen server game berbasis web yang open-source, di
 
 Apakah Anda butuh website dari yang standar hingga yang super modern? Saya menyediakan jasa pembuatan website dengan desain elegan, responsif, dan performa tinggi.
 
-### 🔹 **Kenapa Harus Memilih Jasa Saya?**
+### 👤 **Kenapa Harus Memilih Jasa Saya?**
 ✅ Desain modern dan responsif <br>
 ✅ SEO-friendly untuk performa terbaik di mesin pencari <br>
 ✅ Support penuh dan layanan after-sales <br>
@@ -26,8 +26,8 @@ Apakah Anda butuh website dari yang standar hingga yang super modern? Saya menye
 
 📌 **Tertarik? Hubungi Saya Sekarang!**
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp)](https://wa.me/yourwhatsappnumber) 
-[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram)](https://t.me/yourtelegramusername)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp)](https://wa.me/6285747409383) 
+[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram)](https://t.me/markhex)
 
 ---
 
