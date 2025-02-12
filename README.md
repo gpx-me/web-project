@@ -1,30 +1,37 @@
-# 🦅 Pterodactyl Store
+![Pterodactyl Panel](https://pterodactyl.io/img/logo.png)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License" />
-  <img src="https://img.shields.io/badge/version-1.0-blue" alt="Version" />
-  <img src="https://img.shields.io/badge/build-passing-success" alt="Build" />
-  <img src="https://img.shields.io/github/stars/username/pterodactyl-store?style=social" alt="GitHub stars" />
-</p>
+# 🚀 Pterodactyl Panel - Manajemen Server Game yang Andal
 
-Pterodactyl Store adalah platform modern untuk menjual dan mengelola server game dengan integrasi seamless ke Pterodactyl Panel. Dengan UI modern dan fitur canggih, Pterodactyl Store memberikan pengalaman terbaik bagi pengguna dan admin.
+Pterodactyl adalah panel manajemen server game berbasis web yang open-source, dirancang untuk memberikan pengalaman terbaik dalam mengelola server game dengan mudah, cepat, dan aman. Panel ini dibangun menggunakan PHP, Vue.js, dan Go, memastikan kinerja optimal serta keamanan tinggi.
 
-## 🚀 Fitur Utama
-✅ **Automated Server Deployment** – Otomatisasi penyediaan server dalam hitungan detik.  
-🎨 **Modern & Responsive UI** – Tampilan modern dengan desain yang responsif.  
-🔗 **Full Pterodactyl API Support** – Dukungan penuh API untuk integrasi tanpa batas.  
-💳 **Secure Payment Integration** – Dukungan berbagai metode pembayaran aman.  
-📊 **User Dashboard & Management** – Dashboard intuitif untuk pelanggan dan admin.  
-
-## 📞 Pembelian & Dukungan
-Jika Anda tertarik untuk membeli atau memiliki pertanyaan, silakan hubungi saya melalui WhatsApp: [Klik untuk DM](https://wa.me/6285747409383).
-
-## 📜 Lisensi
-📝 Proyek ini dilisensikan di bawah lisensi **MIT**. Lihat [LICENSE](LICENSE) untuk detail lebih lanjut.
+## ✨ Fitur Utama
+- 🛠 **Antarmuka Modern & User-Friendly** - UI berbasis Vue.js yang intuitif.
+- 🚀 **Dukungan Multi-Server** - Kelola banyak server dari satu panel.
+- 🔐 **Keamanan Tingkat Tinggi** - Isolasi melalui Docker untuk mencegah akses yang tidak sah.
+- 📈 **Manajemen Pengguna & Tim** - Berikan izin akses sesuai kebutuhan.
+- ⚡ **Performa Tinggi** - Optimasi maksimal untuk server game.
 
 ---
 
-<p align="center">
-  💙 Dibuat dengan cinta oleh komunitas Pterodactyl Store 💙
-</p>
+## 🔥 Jasa Pembuatan Website Profesional
 
+Apakah Anda butuh website dari yang standar hingga yang super modern? Saya menyediakan jasa pembuatan website dengan desain elegan, responsif, dan performa tinggi.
+
+### 🔹 **Kenapa Harus Memilih Jasa Saya?**
+✅ Desain modern dan responsif <br>
+✅ SEO-friendly untuk performa terbaik di mesin pencari <br>
+✅ Support penuh dan layanan after-sales <br>
+✅ Harga fleksibel sesuai kebutuhan Anda <br>
+✅ Integrasi API dan fitur canggih lainnya <br>
+
+📌 **Tertarik? Hubungi Saya Sekarang!**
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp)](https://wa.me/yourwhatsappnumber) 
+[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram)](https://t.me/yourtelegramusername)
+
+---
+
+### 📜 Lisensi
+Pterodactyl adalah proyek open-source yang dirilis di bawah lisensi MIT. Anda dapat menemukan lebih banyak informasi di [pterodactyl.io](https://pterodactyl.io).
+
+💡 **Dapatkan website impian Anda sekarang juga!** 🚀
