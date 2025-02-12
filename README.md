@@ -1,4 +1,4 @@
-![Pterodactyl Panel]([https://img.icons8.com/?size=100&id=13682&format=png&color=000000](https://img.icons8.com/?size=100&id=YxngeayofcUD&format=png&color=000000))
+![Pterodactyl Panel](https://img.icons8.com/?size=100&id=YxngeayofcUD&format=png&color=000000)
 
 # 🚀 Pterodactyl Panel - Manajemen Server Game yang Andal
 
