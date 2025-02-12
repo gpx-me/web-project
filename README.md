@@ -1,4 +1,4 @@
-![Pterodactyl Panel](https://cdn.jsdelivr.net/gh/pterodactyl/panel/public/assets/logo.png)
+![Pterodactyl Panel](https://img.icons8.com/?size=100&id=13682&format=png&color=000000)
 
 # 🚀 Pterodactyl Panel - Manajemen Server Game yang Andal
 
@@ -8,8 +8,8 @@ Pterodactyl adalah panel manajemen server game berbasis web yang open-source, di
 - 🛠 **Antarmuka Modern & User-Friendly** - UI berbasis Vue.js yang intuitif.
 - 🚀 **Dukungan Multi-Server** - Kelola banyak server dari satu panel.
 - 🔐 **Keamanan Tingkat Tinggi** - Isolasi melalui Docker untuk mencegah akses yang tidak sah.
-- 📈 **Manajemen Pengguna & Tim** - Berikan izin akses sesuai kebutuhan.
-- ⚡ **Performa Tinggi** - Optimasi maksimal untuk server game.
+- 💻 **Manajemen Pengguna & Tim** - Berikan izin akses sesuai kebutuhan.
+- 📡 **Performa Tinggi** - Optimasi maksimal untuk server game.
 
 ---
 
