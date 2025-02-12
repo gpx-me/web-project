@@ -17,7 +17,7 @@ Pterodactyl Store adalah platform modern untuk menjual dan mengelola server game
 📊 **User Dashboard & Management** – Dashboard intuitif untuk pelanggan dan admin.  
 
 ## 📞 Pembelian & Dukungan
-Jika Anda tertarik untuk membeli atau memiliki pertanyaan, silakan hubungi saya melalui WhatsApp: [Klik untuk DM](https://wa.me/yourphonenumber).
+Jika Anda tertarik untuk membeli atau memiliki pertanyaan, silakan hubungi saya melalui WhatsApp: [Klik untuk DM](https://wa.me/6285747409383).
 
 ## 📜 Lisensi
 📝 Proyek ini dilisensikan di bawah lisensi **MIT**. Lihat [LICENSE](LICENSE) untuk detail lebih lanjut.
