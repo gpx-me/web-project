@@ -1,4 +1,4 @@
-![Pterodactyl Panel](https://pterodactyl.io/img/logo.png)
+![Pterodactyl Panel](https://cdn.jsdelivr.net/gh/pterodactyl/panel/public/assets/logo.png)
 
 # 🚀 Pterodactyl Panel - Manajemen Server Game yang Andal
 
@@ -28,6 +28,13 @@ Apakah Anda butuh website dari yang standar hingga yang super modern? Saya menye
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp)](https://wa.me/yourwhatsappnumber) 
 [![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram)](https://t.me/yourtelegramusername)
+
+---
+
+### ☕ Dukung Saya
+Jika Anda menyukai pekerjaan saya dan ingin mendukung saya, Anda bisa membeli saya secangkir kopi!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourusername)
 
 ---
 
