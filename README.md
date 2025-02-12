@@ -1,7 +1,5 @@
 # 🦅 Pterodactyl Store
 
-![Pterodactyl Store Banner](https://yourimageurl.com/banner.png)
-
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License" />
   <img src="https://img.shields.io/badge/version-1.0-blue" alt="Version" />
@@ -18,31 +16,8 @@ Pterodactyl Store adalah platform modern untuk menjual dan mengelola server game
 💳 **Secure Payment Integration** – Dukungan berbagai metode pembayaran aman.  
 📊 **User Dashboard & Management** – Dashboard intuitif untuk pelanggan dan admin.  
 
-## 📸 Preview
-<p align="center">
-  <img src="https://yourimageurl.com/demo.gif" alt="Pterodactyl Store Demo" width="70%" />
-</p>
-
-## 🛠 Instalasi
-```bash
-# Clone repository
-git clone https://github.com/username/pterodactyl-store.git
-
-# Masuk ke direktori
-cd pterodactyl-store
-
-# Instal dependencies
-npm install
-
-# Jalankan aplikasi
-npm start
-```
-
-## 🤝 Kontribusi
-Kami menyambut kontribusi dari komunitas! 💡 Silakan fork repository ini dan kirimkan pull request jika ingin berkontribusi.
-
-## 📞 Dukungan
-Jika Anda memiliki pertanyaan atau masalah, silakan buka [issue](https://github.com/username/pterodactyl-store/issues) atau hubungi kami di [Discord](https://discord.gg/yourserver).
+## 📞 Pembelian & Dukungan
+Jika Anda tertarik untuk membeli atau memiliki pertanyaan, silakan hubungi saya melalui WhatsApp: [Klik untuk DM](https://wa.me/yourphonenumber).
 
 ## 📜 Lisensi
 📝 Proyek ini dilisensikan di bawah lisensi **MIT**. Lihat [LICENSE](LICENSE) untuk detail lebih lanjut.
@@ -52,3 +27,4 @@ Jika Anda memiliki pertanyaan atau masalah, silakan buka [issue](https://github.
 <p align="center">
   💙 Dibuat dengan cinta oleh komunitas Pterodactyl Store 💙
 </p>
+
